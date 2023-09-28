@@ -1,0 +1,7 @@
+j : integer ;
+a : Str ;
+If ( j = 0 ) Then { j := 1 ; }
+While ( non ( j = 0 ) = true ) Do { a := _bonjour ; }
+write j ;
+write a ;
+
