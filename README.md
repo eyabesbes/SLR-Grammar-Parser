@@ -1,1 +1,1 @@
-# Thèories de compilation
+# Théories de compilation
