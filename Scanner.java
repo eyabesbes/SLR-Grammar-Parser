@@ -1,12 +1,8 @@
-
-
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
-
-
 
 /*La ArrayListclasse est un tableau redimensionnable , qui peut être trouvé dans le java.utilpackage.
 
@@ -15,7 +11,6 @@ est que la taille d'un tableau ne peut pas être modifiée (si vous voulez ajout
  vous devez en créer un nouveau).
 Alors que des éléments peuvent être ajoutés et supprimés d'un ArrayListfichier quand vous le souhaitez.
 */
-
 
 public class Scanner 
 {
